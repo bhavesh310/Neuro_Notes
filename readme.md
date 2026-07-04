@@ -17,8 +17,6 @@ freely while an embedded AI assistant summarizes, expands, outlines, and
 transforms your ideas in real time — all wrapped in a distraction-free, richly
 styled editor built for focus.
 
-**Live Demo →** [NeuroNotes](#)
-
 ---
 
 ## Tech Stack
