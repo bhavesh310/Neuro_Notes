@@ -1,4 +1,3 @@
-
 # 🧠 NeuroNotes
 
 > Your second brain — an AI-powered note-taking app that helps you capture, organize, and connect ideas effortlessly.
@@ -183,7 +182,10 @@ This project is **private and proprietary**. All rights reserved.
 
 ## Author
 
-**Bhavesh** — Full Stack Developer
+**Bhavesh Ghatode** — Full Stack Developer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavesh-kumar-4466a3276/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhavesh310)
 
 ---
 
